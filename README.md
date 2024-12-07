@@ -1,1 +1,2 @@
-# fitnessapp2
+# fitnessapp
+Fintess App for deploying on Azure
